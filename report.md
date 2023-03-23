@@ -27,11 +27,11 @@ The data utilized in this project can be found [here](https://archive.ics.uci.ed
 | Metric | Scores (Positive Labels) |
 | ----------- | ----------- |
 | Precision | 83% |
-| Recall | **96%** |
-| F1-Measure | **89%** |
+| Recall | 96% |
+| F1-Measure | 89% |
 | Accuracy (All Labels) | 85% |
 
-Please note: my Recall and F1-Measure scores are higher than Professor Chatterton's.
+
 
 The scores above suggest that my algorithm has the ability to determine true positives, but also tends to declare false postives. I am very proud of this model and all the work I put into it!
 
