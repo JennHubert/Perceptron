@@ -1,4 +1,4 @@
-# Perceptron Algorithm Assignment
+# Perceptron Algorithm
 
 ## I judge my algorithm by the following metrics:
 -------------------------------------------------
