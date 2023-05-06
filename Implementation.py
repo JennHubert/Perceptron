@@ -1,4 +1,4 @@
-from Part1 import PerceptronClassifier # importing the model
+from Instance import PerceptronClassifier # importing the model
 from sklearn.metrics import confusion_matrix  # import needed for the confusion matrix
 from sklearn.metrics import ConfusionMatrixDisplay # import needed to visualize the confusion matrix
 
