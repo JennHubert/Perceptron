@@ -35,21 +35,21 @@ The data utilized in this project can be found [here](https://archive.ics.uci.ed
 
 The scores above suggest that my algorithm has the ability to determine true positives, but also tends to declare false postives. I am very proud of this model and all the work I put into it!
 
-![img](TestingScores.png)
+![img](images/TestingScores.png)
 <br/><br/>
 ## Confusion Matrix
 
-![img](TESTINGMATRIX.png)
+![img](images/TESTINGMATRIX.png)
 <br/><br/>
 ## Training Errors
-![img](LinePlotTrainingError.png)
+![img](images/LinePlotTrainingError.png)
 
 
 The first two hundred iterations have the most growth in terms of becoming more accurate with every consecutive iteration.
 
 ---------------------------------
 <br/><br/>
-![img](Picture.png)
+![img](images/Picture.png)
 
 These are the imports I utilized for this project
 ```
@@ -83,12 +83,12 @@ print(Y) # see how it worked
 | F1-Measure | 94% |
 | Accuracy (All Labels) | 93% |
 
-![img](TrainingScores2.png)
+![img](images/TrainingScores2.png)
 
 <br/><br/>
 ## Confusion Matrix
 
-![img](THESECONDMATRIX.png)
+![img](images/THESECONDMATRIX.png)
 
 -----------------------------
 <br/><br/>
